@@ -1,0 +1,9 @@
+label {
+  font-weight: bold;
+}
+
+input,
+select {
+  outline: none !important;
+  border: none !important;
+}
